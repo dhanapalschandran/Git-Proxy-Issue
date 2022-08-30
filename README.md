@@ -17,5 +17,7 @@ http_proxy in System Variables
 # Commands to unset values
 
 git config --global --unset http.proxy
+
 git config --unset http.proxy
+
 http_proxy=""
